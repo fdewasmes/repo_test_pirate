@@ -6,3 +6,6 @@ line 4
 line 5
 line 6
 line 7
+
+# NEW FEATURE
+So cool stuff
