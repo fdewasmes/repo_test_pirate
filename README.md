@@ -7,6 +7,13 @@ line 5
 line 6
 line 7
 
+# NEW FEATURE
+----------------
+So cool stuff
+Another addition on this cool new feature
+added some other stuff
+----------------
+
 =======
 CLESYDE ADDITIONS
 ======
